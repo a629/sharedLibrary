@@ -1,4 +1,4 @@
 def call(){
-  sh 'javac hello.java'
-  sh 'java hello'
+  //sh 'javac hello.java'
+  //sh 'java hello'
 }
